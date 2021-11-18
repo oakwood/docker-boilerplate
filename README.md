@@ -14,3 +14,6 @@
 - Add `127.0.0.1 mayadelorez.localcms` to `/etc/hosts`
 - Install plugin dependencies `cd public/wp-content/plugins/owc-gutenberg && composer install && yarn`
 - To start dev development for plugin run `cd public/wp-content/plugins/owc-gutenberg && yarn start`
+
+More info and CMDs
+https://github.com/urre/wordpress-nginx-docker-compose
